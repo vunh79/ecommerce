@@ -1,6 +1,0 @@
-21/5/2019
-06 / 11:13
-turn off debug: debugShowCheckedModeBanner: false,
-Part 24 - Flutter e-commerce app: FireStore and google sign in part1
-- Create database
-Part 25  Flutter e-commerce app: FireStore and google sign in part2
