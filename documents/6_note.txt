@@ -1,0 +1,4 @@
+create folder documents
+create folder images (past file)
+create folder images/cats (past file)
+create folder images/products (past file)
